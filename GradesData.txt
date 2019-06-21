@@ -1,0 +1,6 @@
+Atlas	AtlasShrugged@lel.edu	Business	50
+TOby	Toby@g.com	Digital Media	25
+Atlas	Snowden@lol.com	Security	75
+Ed	Toby@g.com	Digital Media	25
+Atlas	Buddy@e.com	Digital Media	0
+Peter	Malone@sdsd.com	Security	100
